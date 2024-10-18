@@ -141,6 +141,7 @@ ASP.NET Core MVC
 Entity Framework Core
 Banco de dados Oracle
 JWT para autenticação
+
 Integrantes
 Turma: 2TDSPS
 Bia Silva 552600 Pedro henrique S araujo 553801
